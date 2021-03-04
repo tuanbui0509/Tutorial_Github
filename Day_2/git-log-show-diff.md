@@ -9,6 +9,6 @@ show history commit
 - Shows one or more objects (blobs, trees, tags and commits).
 
 # git diff
-- How to use ? before commit okie
+- How to use ? before commit okie and it's into history of repository 
 
 ## press q to exit program
