@@ -3,3 +3,4 @@
 # staging area
 - when you add files , that's in staging area
 # git repository
+- When you commit files, that's is repository
