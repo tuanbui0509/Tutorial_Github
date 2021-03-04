@@ -1,4 +1,14 @@
 # Syntax git popular and important when you use to in your project
 
 # git log
-- show history
+- syntax git log [<options>] [<revision range>] [[--] <path>…​]
+show history commit
+
+# git show
+- syntax git show [<options>] [<object>…​] => [id] 
+Shows one or more objects (blobs, trees, tags and commits).
+
+# git diff
+- How to use ? before commit okie
+
+## press q to exit program

@@ -2,12 +2,12 @@
 
 | # Day |                                                                       Topics                                                                        |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 0    |                                                       [Introduction](./README.md)                                                             |
-| 01    |                                               [First "commits"](./)                                                |
+| 0    |                                                       [Introduction](./Readme.md)                                                             |
+| 01    |                                               [First "commits"](./Day_1/first-commit.md)                                                |
 | 02    |                             [log, show, diff](./Day_2/git-log-show-diff.md)                             |
-| 03    |                                            [checkout, reset]()                                             |
-| 04    |                                                     [Các thuật ngữ Working dir, Staging area, Repository]()                                                      |
-| 05    |                                                       [Branching_Merging]()                                                       |
+| 03    |                                            [checkout, reset](./Day_3/checkout-reset.md)                                             |
+| 04    |                                                     [Các thuật ngữ Working dir, Staging area, Repository](./Day_4/Working-dir_Staging-area_Repository.md)                                                      |
+| 05    |                                                       [Branching_Merging](Day_5)                                                       |
 | 06    |                                                 [Reset_revert]() 
 ## Configure tooling
 Configure user information for all local repositories
