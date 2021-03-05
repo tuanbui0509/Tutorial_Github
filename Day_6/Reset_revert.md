@@ -10,6 +10,5 @@
 
 # 2. git revert undo status line 
 - Move to the history of this Repository will become a status displayed.
-- commit new
-
+- new commit
 - => extremely dangerous
