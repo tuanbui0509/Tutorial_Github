@@ -8,7 +8,7 @@
 - Remove loss of commits on the way to Commit to come
 - => extremely dangerous
 
-# 1. git revert undo status line 
+# 2. git revert undo status line 
 - Move to the history of this Repository will become a status displayed.
 - commit new
 
