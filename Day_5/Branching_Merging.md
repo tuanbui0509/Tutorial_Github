@@ -12,3 +12,6 @@
 ## 4. Switch branch
 - git checkout branch-names
 - => When in any branch, there will be that branch code created, transferred to another branch, the branch code will not see them
+
+## 5. Delete branch
+- git branch -D branch
