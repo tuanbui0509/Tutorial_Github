@@ -11,10 +11,14 @@
 | 06    |                                                 [Reset_revert](./Day_6/Reset_revert.md) 
 | 08    |                                                 [git_ignore](./Day_7/git-ignore.md) 
 | 09    |                                                 [Github](./Day_8/Github.md) 
-| 10    |                                                 [git_ignore](./Day_9/git_credential.md) 
-| 11    |                                                 [git_ignore](./Day_7/git-ignore.md) 
-| 12    |                                                 [git_ignore](./Day_7/git-ignore.md) 
-| 13    |                                                 [git_ignore](./Day_7/git-ignore.md) 
+| 10    |                                                 [git_credential](./Day_9/git_credential.md) 
+| 11    |                                                 [clone_pull_push](./Day_10/clone_pull_push.md) 
+| 12    |                                                 [Push_a_branch](./Day_11/Push_a_branch.md) 
+| 13    |                                                 [Code_review](./Day_12/Code_review.md) 
+| 14    |                                                 [Pull_request](./Day_13/Pull_request.md) 
+| 15    |                                                 [Resolve_conflict_to_use__rebase](./Day_14/Resolve_conflict_to_use__rebase.md) 
+| 16    |                                                 [Resolve_conflict_to_use__merge](./Day_15/Resolve_conflict_to_use__merge.md) 
+| 17    |                                                 [finally_github](./Day_16/finally_github.md) 
 ## Configure tooling
 Configure user information for all local repositories
 
