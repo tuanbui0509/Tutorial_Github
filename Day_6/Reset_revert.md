@@ -12,3 +12,4 @@
 - Move to the history of this Repository will become a status displayed.
 - new commit
 - => extremely dangerous
+- Another create new commit if you want edit or fix bug

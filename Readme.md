@@ -9,6 +9,7 @@
 | 04    |                                                     [Các thuật ngữ Working dir, Staging area, Repository](./Day_4/Working-dir_Staging-area_Repository.md)                                                      |
 | 05    |                                                       [Branching_Merging](./Day_5/Branching_Merging.md)                                                       |
 | 06    |                                                 [Reset_revert](./Day_6/Reset_revert.md) 
+| 07    |                                                 [Reset_revert](./Day_7/git_ignore.md) 
 ## Configure tooling
 Configure user information for all local repositories
 
