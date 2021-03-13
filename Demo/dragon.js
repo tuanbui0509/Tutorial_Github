@@ -1,18 +1,21 @@
-function Dragon(name){
+function Dragon(name) {
     this.stomach = [];
     this.name = name;
     this.dead = false;
 }
 
-Dragon.prototype.eat = function(animal){
+Dragon.prototype.eat = function (animal) {
     this.stomach.push(animal)
 }
 
-Dragon.prototype.die = function() {
+Dragon.prototype.die = function () {
     this.dead = true;
 }
 
-Dragon.prototype.sleep = function(){
+Dragon.prototype.run = function () {
+    console.log('Running ...');
+}
+Dragon.prototype.sleep = function () {
     console.log('Sleeping ...zzZ');
 }
 
