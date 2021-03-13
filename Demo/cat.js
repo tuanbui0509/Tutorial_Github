@@ -7,23 +7,26 @@ function Cat(name) {
     this.dead = false;
 }
 
-Cat.prototype.eat = function(animal) {
-    if(animal instanceof Mouse)
+Cat.prototype.eat = function (animal) {
+    if (animal instanceof Mouse)
         this.stomach.push(animal)
-    else 
+    else
         throw new Error('Cat con only eat mouse!');
 }
 
-Cat.prototype.die = function() {
+Cat.prototype.die = function () {
     this.dead = true;
 }
 
-Cat.prototype.jump = function() {
+Cat.prototype.jump = function () {
     console.log('Cat is jumping ...');
 }
 
-Cat.prototype.beat = function() {
+Cat.prototype.beat = function () {
     console.log('Cat is beating snack');
+}
+Cat.prototype.cry = function () {
+    console.log('Cat is crying hu hu hu');
 }
 
 
