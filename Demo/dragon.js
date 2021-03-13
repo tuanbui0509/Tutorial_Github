@@ -12,4 +12,8 @@ Dragon.prototype.die = function() {
     this.dead = true;
 }
 
+Dragon.prototype.sleep = function(){
+    console.log('Sleeping ...zzZ');
+}
+
 module.exports = Dragon;
