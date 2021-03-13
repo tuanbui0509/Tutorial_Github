@@ -6,4 +6,4 @@
 - Files changed Approve code
 - Merge pull request
 ## Review code offline
-- git fetch (name_branch) to download local
+- git fetch origin (name_branch) to download local
