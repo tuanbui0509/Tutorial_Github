@@ -1,7 +1,7 @@
 # Day 14 Resolve conflict using rebase
 ## when will conflicts happen?
 - Changing the same file + same line
-- A deleted file X, X modified file X
+- A deleted file X, B modified file X
 ## Method 1 Using rebase
 - 1. git checkout main
 - 2. git pull
