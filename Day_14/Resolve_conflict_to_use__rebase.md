@@ -12,4 +12,5 @@
 - 7. If error credential using: (git config --global credential.helper wincred)
 - 8.  git push origin (feature/branch) -f
 
+- => Update commit current not new commit
 - show config: git config --global --list
