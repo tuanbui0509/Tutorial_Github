@@ -18,7 +18,7 @@ Cat.prototype.die = function() {
     this.dead = true;
 }
 
-Cat.prototype.run = function() {
+Cat.prototype.jump = function() {
     console.log('Cat is jumping ...');
 }
 
