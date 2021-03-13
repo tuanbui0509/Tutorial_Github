@@ -22,9 +22,10 @@ Cat.prototype.jump = function() {
     console.log('Cat is jumping ...');
 }
 
-Cat.prototype.say = function() {
-    console.log('Cat is saying meo meo meo');
+Cat.prototype.beat = function() {
+    console.log('Cat is beating snack');
 }
+
 
 
 module.exports = Cat;
