@@ -12,4 +12,8 @@ Dragon.prototype.die = function() {
     this.dead = true;
 }
 
+Dragon.prototype.run = function(){
+    console.log('Running ...');
+}
+
 module.exports = Dragon;
