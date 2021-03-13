@@ -18,4 +18,8 @@ Cat.prototype.die = function() {
     this.dead = true;
 }
 
+Cat.prototype.jump = function() {
+    console.log('Cat is jumping ...');
+}
+
 module.exports = Cat;
